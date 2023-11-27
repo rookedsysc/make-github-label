@@ -3,7 +3,7 @@
 - You need to create a token.md file in the same folder and enter your GitHub token.
   - To issue a token, go to `Setting > Developer Setting > Personal access tokens > Generate new token > Tokens (classic) > Generate new token(classic)` Make sure to select the `repo` permission when generating the token. 
 
-[](./imgSrc/SCR-20231128-om.png)
+![SCR-20231128-om](https://github.com/rookedsysc/make-github-label/assets/67862775/e7063a36-f4e4-4d1b-a5e1-a0a0fdb279e0)
 
 ### 깃허브 레포지토리 라벨 생성 스크립트
 
@@ -11,4 +11,4 @@
 - 같은 폴더내에 `token.md` 파일을 생성하고 github token을 입력해야 합니다.
     - 토큰을 발급 받는 방법은 `Setting > Developer Setting > Personal access tokens > Generate new token > Tokens (classic) > Generate new token(classic)` 을 눌러서 생성는데, 이 때 `repo` 권한을 선택해야 합니다.
 
-[](./imgSrc/SCR-20231128-om.png)
+![SCR-20231128-om](https://github.com/rookedsysc/make-github-label/assets/67862775/e7063a36-f4e4-4d1b-a5e1-a0a0fdb279e0)
