@@ -23,7 +23,7 @@ class MakeGithubLabel :
   # 
   def read_token(self) :
     with open("token.txt", "r") as f:
-      self.TOKEN = f.read()
+      self.TOKEN = f.read().strip()
       print(f"Token read success : {self.TOKEN}")
       self.HEADERS = {
         "Authorization": f"token {self.TOKEN}",
